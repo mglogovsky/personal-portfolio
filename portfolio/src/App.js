@@ -8,7 +8,7 @@ import { BiPhoneCall } from "react-icons/bi";
 import { BiMailSend } from "react-icons/bi";
 import { BiHomeAlt } from "react-icons/bi";
 import { motion } from "framer-motion";
-import arch from "./Untitled-1.jpg";
+import arch from "./resume.pdf";
 import React, { Component } from "react";
 
 function App() {
@@ -65,25 +65,25 @@ function App() {
           <div className="s"></div>
           <div className="about-info">
             <p>
-              ive on the internet. My interest in web development started back
-              in 2012 when I decided to try editing custom Tumblr themes —
-              turnsive on the internet. My interest in web development started
-              back in 2012 when I decided to try editing custom Tumblr themes —
-              turns
+              Hello! My name is Martin! I have only recently found my passion
+              for development and programing, but I loved computers and have
+              been great problem solver since early days of my life. I am
+              responsible, dedicated, disciplined, hardworking and great team
+              player!
             </p>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live
-              on the internet. My interest in web development started back in
-              2012 when I decided to try editing custom Tumblr themes — turns
-              out hacking together a custom reblog button taught me a lot about
-              HTML & CSS!
+              My hobby - working out has teached me many important lessons. If
+              you want results, you need to be disciplined, hardworking and
+              patient. Only year ago I didnt know anything about progaming, not
+              even simple hello world. But since then, I dedicated countelss
+              hours of learning to code and today I am able to develop and
+              mantain web apps, create diagrams, database relation models and
+              many other things which are essential for Software Development.
             </p>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live
-              on the internet. My interest in web development started back in
-              2012 when I decided to try editing custom Tumblr themes — turns
-              out hacking together a custom reblog button taught me a lot about
-              HTML & CSS!
+              I am aware that there are many gaps in my knowledge, but im
+              working, studying hard to fill up those gaps and become best
+              version of myself, in regards to Software Development.
             </p>
           </div>
         </div>
