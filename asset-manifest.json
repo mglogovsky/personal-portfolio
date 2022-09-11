@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.418ffb3e.css",
-    "main.js": "/personal-portfolio/static/js/main.b5214c84.js",
+    "main.js": "/personal-portfolio/static/js/main.106ae820.js",
     "static/media/Untitled-1.jpg": "/personal-portfolio/static/media/Untitled-1.1f48ae1d7e66723b0e57.jpg",
     "static/media/Calibre-LightItalic.eot": "/personal-portfolio/static/media/Calibre-LightItalic.7a668e2060a5fd2df91f.eot",
     "static/media/Calibre-SemiboldItalic.eot": "/personal-portfolio/static/media/Calibre-SemiboldItalic.d34cf98562bf55f1bb28.eot",
@@ -70,13 +70,14 @@
     "static/media/Calibre-Medium.woff2": "/personal-portfolio/static/media/Calibre-Medium.568dce56f869a519a015.woff2",
     "static/media/Calibre-Black.woff2": "/personal-portfolio/static/media/Calibre-Black.f55f988ecdba44ac5689.woff2",
     "static/media/Calibre-ThinItalic.woff2": "/personal-portfolio/static/media/Calibre-ThinItalic.1ef6bb043e2c2986c340.woff2",
+    "static/media/resume.pdf": "/personal-portfolio/static/media/resume.c1efcfdf1962ef880b58.pdf",
     "static/media/Calibre-Thin.woff2": "/personal-portfolio/static/media/Calibre-Thin.572f22992c8a9705583d.woff2",
     "index.html": "/personal-portfolio/index.html",
     "main.418ffb3e.css.map": "/personal-portfolio/static/css/main.418ffb3e.css.map",
-    "main.b5214c84.js.map": "/personal-portfolio/static/js/main.b5214c84.js.map"
+    "main.106ae820.js.map": "/personal-portfolio/static/js/main.106ae820.js.map"
   },
   "entrypoints": [
     "static/css/main.418ffb3e.css",
-    "static/js/main.b5214c84.js"
+    "static/js/main.106ae820.js"
   ]
 }
